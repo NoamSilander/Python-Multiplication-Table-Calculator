@@ -10,7 +10,7 @@ while True:
         
 while True:
     try:
-        until = int(input('Until what number should each table go to (e.g 10 would end in x 10: '))
+        until = int(input('Until what number should each table go to (e.g 10 would end in x 10): '))
         if until <= 0:
             print('Number must be greater than 0.')
         else:

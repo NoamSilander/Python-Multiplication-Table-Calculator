@@ -1,19 +1,19 @@
 # Multiplication Table Calculator
 Just a simple python script for calculating multiplication tables
 
-Works by using a simple nested `for` loop to calculate the tables.¨
+Works by using a simple nested `for` loop to calculate the tables.
 
-The script first asks you how many multiplication tables you would like, then until what exponent they run for. For example `3` and `5` would print tables from `1 x 1` all the way to `3 x 5`. The script checks if the input is a number, so `three` for example wouldn't work.
+The script first asks you how many multiplication tables you would like, then how far they go on for. For example `3` and `5` would print tables from `1 x 1` all the way to `3 x 5`. The script checks if the input is a number, so `three` for example wouldn't work.
 
 ## How to Run
 1. Run `Calculator.py`
 
 ## Example
-An example using the values `6`and `8`
+An example using the values `6` and `8`
 
 ```
 How many multiplication tables you would like: 6
-Until what number should each table go to (e.g 10 would end in x 10: 8
+Until what number should each table go to (e.g 10 would end in x 10): 8
 1 x 1 = 1
 1 x 2 = 2
 1 x 3 = 3
